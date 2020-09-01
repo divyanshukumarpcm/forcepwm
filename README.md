@@ -1,6 +1,10 @@
 TO BE USED WITH ARDUINO...IN PRODUCING ANALOG OUTPUT SIGNAL.
 THIS LIBRARY OR ARDUINO CODE CAN BE USED TO CREATE ANALOG SIGNALS WITH ANY DIGITAL PIN OF ARDUINO EVEN WITH NON-PWM ONES.
 
+Include in your arduino file/project using-#include "forcepwm.h"
+start calling functions.
+
+NOTE: The file must be present in same folder with your arduino files in which it is included.
 
 //Pin is any digital pin present on board- 0 to 13.
 //Initialise that pin as Output in void setup() function.
