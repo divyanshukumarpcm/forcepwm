@@ -1,6 +1,6 @@
 TO BE USED WITH ARDUINO...IN PRODUCING ANALOG OUTPUT SIGNAL.
 
-The arduino file is given with circuit diagram on an arduino to try. Feel free....seriously.
+The arduino file is given with circuit diagram on an arduino to try. Feel free....seriously. YOU CAN ALSO LEARN THIS TECHNIQUE AND USE WHEREVER YOU LIKE !!!!!!!!!
 
 THIS LIBRARY- FORCEPWM.H OR ARDUINO CODE CAN BE USED TO CREATE ANALOG SIGNALS WITH ANY DIGITAL PIN OF ARDUINO EVEN WITH NON-PWM ONES.
 
